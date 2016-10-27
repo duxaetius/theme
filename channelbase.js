@@ -680,8 +680,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 ga('create', 'UA-53755606-1', 'auto');
 ga('send', 'pageview');
 
-var bgColorArray = ['i.
-		    .com/98bfQ3N.jpg','//i.imgur.com/1gY57B7.png','//i.imgur.com/K18EuLv.png','//i.imgur.com/1mBwFMy.jpg','//i.imgur.com/ANhEHCn.jpg','//i.imgur.com/1ypw6u0.jpg','//i.imgur.com/JYOMZGAh.jpg','//i.imgur.com/fDxkL9d.jpg','//i.imgur.com/tlX6erS.jpg','//i.imgur.com/b6hP8FH.png'],
+var bgColorArray = ['i.imgur.com/98bfQ3N.jpg','//i.imgur.com/1gY57B7.png','//i.imgur.com/K18EuLv.png','//i.imgur.com/1mBwFMy.jpg','//i.imgur.com/ANhEHCn.jpg','//i.imgur.com/1ypw6u0.jpg','//i.imgur.com/JYOMZGAh.jpg','//i.imgur.com/fDxkL9d.jpg','//i.imgur.com/tlX6erS.jpg','//i.imgur.com/b6hP8FH.png'],
 //var bgColorArray = ['//i.imgur.com/dgUiWa8.jpg','//i.imgur.com/Kvms3J0.jpg'],
     selectBG = bgColorArray[Math.floor(Math.random() * bgColorArray.length)];
 $('#backg').css('background', 'url(' + selectBG + ')')
