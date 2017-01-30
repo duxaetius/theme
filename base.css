@@ -17,7 +17,7 @@
  display:none;   
 }
 .channel-emote {
-    min-width: 70px;
+    min-width: 10px;
 }
 body {
     font-size: 1.3em;
@@ -1583,17 +1583,8 @@ img.chat-avatar.chat-avatar_small:hover:after {
     max-width: 110px;
     max-height: 110px;
     display: inline-block;
-    border-radius: 10px;
-    transform: scale(0.8);
-    box-shadow: 0 20px 40px -20px #000000;
 }
-.channel-emote:hover {
-    transform: scale(1.1);
-      cursor: pointer;
-  -webkit-transform-style: preserve-3d;
-  -webkit-transition: all 1s cubic-bezier(1, -0.565, 0.075, 1.495);
-  transition: all 1s cubic-bezier(1, -0.565, 0.075, 1.495);
-}
+
 strong.username {
     word-wrap: break-word;
     display: block;
