@@ -1580,10 +1580,9 @@ img.chat-avatar.chat-avatar_small:hover:after {
   }
 }
 .channel-emote {
-    max-width: 110px;
-    max-height: 110px;
-    display: block;
-    border-radius: 10px;
+    max-width: 200px;
+    max-height: 200px;
+    display: inline;
     transform: scale(0.8);
     box-shadow: 0 20px 40px -20px #000000;
 }
