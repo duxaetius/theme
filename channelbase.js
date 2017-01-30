@@ -422,7 +422,7 @@ return div;
 }
 
 $(document).ready(function() {
-$('<link id="chanfavicon" href="openclipart.org/image/2400px/svg_to_png/215030/Ouroboros.png" type="image/x-icon" rel="shortcut icon" />')
+$('<link id="chanfavicon" href="//s23.postimg.org/a0i1su6kr/Ouroboros.png" type="image/x-icon" rel="shortcut icon" />')
 .appendTo("head");});
 
 // The HorizontalScroller Class accepts a jQuery object as its only argument
