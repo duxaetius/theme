@@ -17,7 +17,7 @@
  display:none;   
 }
 .channel-emote {
-    min-width: 20px;
+    min-width: 5px;
 }
 body {
     font-size: 1.3em;
