@@ -2107,5 +2107,3 @@ input[type="range"]::-webkit-slider-thumb:active {
 #userlist {
  overflow: scroll;
 }
-
-#resize-video-larger, #resize-video-smaller { Display:none;}
